@@ -18,7 +18,7 @@ The "Wedding Industry in the Bay Area" project explores the competitive wedding 
 - **Python Analysis**: Applied Python to generate descriptive statistics, frequency tables, correlations, and various data visualizations, such as scatterplots and boxplots.
 - **Business Insights**: Determined that price does not show a clear correlation with customer satisfaction, indicating that other factors might play a more significant role.
 
-NOTE: to view the code correctly with its visualizations, download the raw file as an HTML document. This ensures the visual content displays as intended.
+NOTE: To view the cde correctly with its visualizations in file 1.3., download the raw file as an HTML document. This ensures the visual content displays as intended.
 
 #### Requirements for this Project
 - **SQL**:
