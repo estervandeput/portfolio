@@ -1,11 +1,11 @@
-# Portfolio by Ester Van de Put: Master's Degree Showcase
+#Portfolio by Ester Van de Put: Master's Degree Showcase
 
 Welcome to my GitHub portfolio, a curated collection of projects from my Master's degree. This portfolio highlights my journey through complex data analysis, machine learning, and programming challenges. Each project demonstrates my ability to apply advanced statistical techniques to address real-world problems, reflecting my skills as a marketing/data analyst.
 
-## Portfolio Overview
+##Portfolio Overview
 Explore a range of projects that showcase data-driven insights and intricate machine-learning models. My portfolio demonstrates how I use analytics to solve business questions and drive informed decision-making.
 
-## Featured Project
+##Featured Project
 
 ### 1. Wedding Industry in the Bay Area
 #### Course: Business Analysis with Structured Data
