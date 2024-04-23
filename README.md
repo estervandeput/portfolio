@@ -144,15 +144,37 @@ For this team assignment, I collaborated with my peers to analyze baseball stati
 - **Statistics**: We calculated key statistics used in the Moneyball approach, including Batting Average, On-Base Percentage, and Slugging Percentage.
 - **Player Replacement Strategy**: We analyzed the data to find replacements for three pivotal players: 2000 AL MVP Jason Giambi, outfielder Johnny Damon, and closer Jason Isringhausen.
 
-### Skills and Tools Learned
+#### Skills and Tools Learned
 - **R Programming**: I used R to perform data analysis and create visualizations.
 - **Statistical Analysis**: I calculated baseball statistics to evaluate player performance and potential replacements.
 - **Team Collaboration**: This project required effective teamwork to achieve our objectives.
 - **Sports Analytics**: We applied data-driven techniques to sports management, focusing on sabermetrics and efficiency.
 
-### Explore My Project
+#### Explore My Project
 You can check out the R script, visualizations, and our team’s player replacement strategy in the file linked under [Moneyball Capstone Project](./6.%20Moneyball%20Capstone%20Project)
 in my portfolio.
+
+### 7. Modeling Case Study
+### Course: Machine Learning and AI
+In this course, I used machine learning techniques to analyze and predict outcomes, focusing on real-world public health applications.
+
+### Assignment Goal: Analyzing and Predicting Birthweight
+This assignment focused on analyzing and predicting birthweight, a key indicator of a baby's health during pregnancy. The task involved examining factors that affect birthweight and using machine learning models to identify and predict potential complications.
+
+### Data and Tasks
+- **Data Sources**: The primary dataset, `birthweight.xlsx`, provided detailed information for analysis. The data dictionary, `birthweight_data_dictionary.rtf`, offered guidance on interpreting the dataset.
+- **Correlation Analysis**: The assignment required identifying strong positive and negative linear (Pearson) correlations with birthweight.
+- **Threshold Identification**: The goal was to investigate official thresholds that signify when birthweight becomes more dangerous, relying on credible sources.
+- **Machine Learning Model**: Various machine learning techniques, such as Logistic Regression, Ridge Classification, and Random Forest, were used to predict birthweight and assess model accuracy through a confusion matrix.
+
+### Skills and Tools Learned
+- **Machine Learning**: Used machine learning techniques like Logistic Regression, Ridge Classification, and Random Forest to predict birthweight.
+- **Statistical Analysis**: Analyzed correlations and transformed data to improve prediction accuracy.
+- **Public Health Insight**: Provided insights on the factors affecting birthweight and their implications for public health.
+- **Data Visualization**: Utilized various visualization techniques to present findings and explain model errors.
+
+### Explore My Project
+Check out the document, analysis, and insights in the linked file under [Modeling Case Study](./7.%20Modeling%20Case%20Study) in my portfolio.
 
 
 
