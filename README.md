@@ -28,7 +28,8 @@ Through this project, I developed and honed the following skills and tools:
 #### Explore My Project
 This project exemplifies my ability to work with complex data, create a database, apply advanced analytical techniques, and derive meaningful insights for stakeholders.
 
-NOTE: To view my Wedding analysis (SQL code, Jupyter Notebook, and HTML file), check the linked files (1.1., 1.2., 1.3.) in my portfolio. Also, to view file 1.3. correctly, make sure to download the raw file as an HTML document. 
+NOTE: To view my Wedding analysis ([SQL Code](./1.1.%20SQL%20Code:%20Creation%20of%20Wedding%20Database)
+, Jupyter Notebook, and HTML file), check the linked files (1.1., 1.2., 1.3.) in my portfolio. Also, to view file 1.3. correctly, make sure to download the raw file as an HTML document. 
 
 ### 2. Text Adventure Game: THE HUNGER GAMES
 #### Course: Python for Data Analysts
@@ -60,7 +61,7 @@ To see my text adventure game based on "The Hunger Games," check the linked Jupy
 This course taught me how to analyze business scenarios to generate effective client proposals through SQL and Python. It also furthered my knowledge in structured data analysis to create insights for business planning.
 
 #### Assignment Goal: Client Proposal Development
-This assignment aimed to help a client prepare wedding options based on their estimated guest count and budget level. To accomplish this, the following steps were taken:
+This assignment aimed to help clients prepare wedding options based on their estimated guest count and budget level. To accomplish this, the following steps were taken:
 
 - **Data Preparation in SQL**:
   - Created a temporary table of all vendors fitting the wedding theme, naming it `relevant_vendors`.
