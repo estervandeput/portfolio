@@ -9,7 +9,7 @@ Explore a range of projects that showcase data-driven insights and intricate mac
 
 ### 1. Wedding Industry in the Bay Area
 #### Course: Business Analysis with Structured Data
-In this course, students analyze complex business scenarios and create data models using SQL.
+This course taught me how to  analyze complex business scenarios and create data models using SQL.
 
 #### Project Description
 The "Wedding Industry in the Bay Area" project explores the competitive wedding services market, focusing on the relationship between price and customer satisfaction. The data analysis uses SQL and Python to uncover insights that help understand the factors driving customer satisfaction.
@@ -32,7 +32,7 @@ NOTE: To view my Wedding analysis (SQL code, Jupyter Notebook, and HTML file), c
 
 ### 2. Text Adventure Game: THE HUNGER GAMES
 #### Course: Python for Data Analysts
-#### Course Goal: Drive meaning from large datasets using Python and apply statistical methods. Learn programming design principles.
+In this course, I learned to drive meaning from large datasets using Python and apply statistical methods. I also learn new programming design principles.
 
 #### Project Requirements
 The assignment's goal was to create a text-based adventure game using Python's fundamental concepts and programming design principles. The key requirements included:
