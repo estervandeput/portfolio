@@ -14,20 +14,20 @@ In this course, students analyze complex business scenarios and create data mode
 #### Project Description
 The "Wedding Industry in the Bay Area" project explores the competitive wedding services market, focusing on the relationship between price and customer satisfaction. The data analysis uses SQL and Python to uncover insights that help understand the factors driving customer satisfaction.
 
-- **SQL Queries**: Developed a dataset by writing SQL queries to explore, analyze, and prepare the data.
-- **Python Analysis**: Applied Python to generate descriptive statistics, frequency tables, correlations, and various data visualizations, such as scatterplots and boxplots.
-- **Business Insights**: Determined that price does not show a clear correlation with customer satisfaction, indicating that other factors might play a more significant role.
+- **SQL Queries**: Developed a dataset by writing SQL queries to explore, analyze, and prepare the data. (see file 1.1)
+- **Python Analysis**: Applied Python to generate descriptive statistics, frequency tables, correlations, and various data visualizations, such as scatterplots and boxplots. 
+- **Business Insights**: Determined that price does not show a clear correlation with customer satisfaction, indicating that other factors might play a more significant role. 
 
 NOTE: To view the cde correctly with its visualizations in file 1.3., download the raw file as an HTML document. This ensures the visual content displays as intended.
 
 #### Requirements for this Project
-- **SQL**:
+- **SQL**: (check file 1.1 in repository)
   - Developed queries to explore and prepare data for analysis.
   - Included ample comments to explain the logic.
   - Followed best practices to create a final dataset.
   
-- **Python**:
+- **Python**: (Check file 1.2. & 1.3. in repository) 
   - Created descriptive statistics, frequency tables, correlations, and multiple data visualizations.
   - Ensured that only relevant data was presented, avoiding data dumping.
 
-This project exemplifies my ability to work with complex data, apply advanced analytical techniques, and derive meaningful insights for stakeholders.
+This project exemplifies my ability to work with complex data, create a database, apply advanced analytical techniques, and derive meaningful insights for stakeholders.
