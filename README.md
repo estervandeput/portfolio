@@ -56,7 +56,8 @@ Through this project, I developed and honed the following skills and tools:
 - **Problem-solving**: Applied logical reasoning to design game stages and scenarios.
 
 #### Explore My Project
-To see my text adventure game based on "The Hunger Games," check the linked Jupyter notebook in my portfolio. This game incorporates the skills and concepts mentioned above.
+Click [here](./2.%20Text%20Adventure%20Game:%20The%20Hunger%20Games)
+ for my text adventure game based on "The Hunger Games." 
 
 ### 3. Preparing Client Proposals
 #### Course: Data Analytics for Business Solutions
