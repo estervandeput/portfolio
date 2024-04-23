@@ -47,9 +47,7 @@ The assignment's goal was to create a text-based adventure game using Python's f
 - A win() function and a fail() function to indicate game outcomes.
 - A brief introduction to the game's story and objective.
 
-#### Skills and Tools Learned
-Through this project, I developed and honed the following skills and tools:
-
+#### Skills and Tools Learned:
 - **Python Programming**: Deepened my understanding of Python essentials, including strings, functions, conditionals, and loops.
 - **Error Handling**: Learned to use try/except blocks for robust input handling.
 - **Game Design**: Developed a structured text-based adventure game, focusing on script flow and user interaction.
@@ -72,13 +70,12 @@ This assignment aimed to help clients prepare wedding options based on their est
   - Created a second temporary table, `vendor_options`, with one wedding option for each budget level and wedding size combination.
   - Included an estimated total cost in USD and the theme of the wedding for each wedding option.
 
-#### Skills and Tools Learned
+#### Skills and Tools Learned:
 - **SQL Proficiency**: Learned to write complex SQL queries to create datasets and manipulate data, demonstrating data extraction and preparation skills.
 - **Data Categorization**: Developed categorical attributes for vendors based on logical ranges and business criteria, showcasing my ability to classify and structure data.
 - **Business Analysis**: Gained insights into business requirements to create effective proposals, highlighting my ability to understand client needs and offer tailored solutions.
 - **Data Visualization**: Utilized SQL queries to generate visualizations that aid in client presentations, indicating my skill in presenting data in a comprehensible format.
 - **Problem-Solving**: Addressed client requirements through SQL tasks and SQL-derived insights, proving my capability to solve business problems with data-driven approaches.
-
 
 #### Explore My Project
 To view the code for [Client Proposal SQL Code](./3.%20Client%20Proposal%20Code)
@@ -97,8 +94,7 @@ I played a data analyst role at the World Bank in this assignment. The goal was 
 - **Scatterplots**: You created scatterplots for each year (1960 and 2020) using Life Expectancy and Fertility Rate as variables.
 - **Categorization**: The scatterplots were categorized by the regions of the countries.
 
-
-#### Skills and Tools Learned
+#### Skills and Tools Learned:
 - **R Programming**: Learned to use R for data analysis and visualization.
 - **Data Visualization**: Created scatterplots to represent complex data.
 - **Data Analysis**: Analyzed and compared data from 1960 and 2020 to draw insights.
@@ -121,8 +117,7 @@ In this assignment, I worked with Kaggle's Bank Churn dataset to predict whether
 - **Model Training**: Trained a machine learning model to predict customer churn and evaluated its accuracy, specificity, and sensitivity.
 - **Predictions**: Used the model to predict whether customers from the NewCustomerDataset would churn.
 
-### Skills and Tools Learned
-
+### Skills and Tools Learned:
 - **Machine Learning**: Trained a model to predict customer churn and evaluated its accuracy, specificity, and sensitivity.
 - **Data Preprocessing**: Handled missing values and divided datasets for training and testing.
 - **Business Analysis**: Provided insights into customer behavior and churn trends.
@@ -144,7 +139,7 @@ For this team assignment, I collaborated with my peers to analyze baseball stati
 - **Statistics**: We calculated key statistics used in the Moneyball approach, including Batting Average, On-Base Percentage, and Slugging Percentage.
 - **Player Replacement Strategy**: We analyzed the data to find replacements for three pivotal players: 2000 AL MVP Jason Giambi, outfielder Johnny Damon, and closer Jason Isringhausen.
 
-#### Skills and Tools Learned
+#### Skills and Tools Learned:
 - **R Programming**: I used R to perform data analysis and create visualizations.
 - **Statistical Analysis**: I calculated baseball statistics to evaluate player performance and potential replacements.
 - **Team Collaboration**: This project required effective teamwork to achieve our objectives.
@@ -167,7 +162,7 @@ This assignment focused on analyzing and predicting birthweight, a key indicator
 - **Threshold Identification**: The goal was to investigate official thresholds that signify when birthweight becomes more dangerous, relying on credible sources.
 - **Machine Learning Model**: Various machine learning techniques, such as Logistic Regression, Ridge Classification, and Random Forest, were used to predict birthweight and assess model accuracy through a confusion matrix.
 
-#### Skills and Tools Learned
+#### Skills and Tools Learned:
 - **Machine Learning**: Used machine learning techniques like Logistic Regression, Ridge Classification, and Random Forest to predict birthweight.
 - **Statistical Analysis**: Analyzed correlations and transformed data to improve prediction accuracy.
 - **Public Health Insight**: Provided insights on the factors affecting birthweight and their implications for public health.
@@ -176,7 +171,29 @@ This assignment focused on analyzing and predicting birthweight, a key indicator
 #### Explore My Project
 Check out the document, analysis, and insights in the linked file under [Modeling Case Study](./7.%20Modeling%20Case%20Study) in my portfolio.
 
+### 8. Unsupervised Analysis Project
+### Course: Machine Learning and AI
 
+### Assignment Goal: Analyzing the Impact of Video Content
+In this assignment, the objective was to analyze the impact of video content in social media, specifically focusing on Facebook Live sellers in Thailand. The analysis included various unsupervised learning tasks like principal component analysis (PCA), k-means clustering, and logistic regression models to understand social media engagement patterns.
+
+### Data and Tasks
+- **Data Sources**: The assignment used the dataset from the research "Usage and Engagement Patterns for Facebook Live Sellers in Thailand."
+- **Reaction Analysis**: Compared videos with other forms of content to determine total engagement and specific reactions (likes, loves, etc.).
+- **Principal Component Analysis (PCA)**: Developed principal components from social media metrics and created a scree plot to determine the number of principal components to retain.
+- **K-Means Clustering**: Developed segmentation with k-means clustering using retained principal components and additional features.
+- **Logistic Regression Models**: Created three logistic regression models to determine the best model for predicting video content.
+
+### Skills and Tools Learned: 
+- **Unsupervised Learning**: Applied unsupervised learning techniques like PCA and k-means clustering.
+- **Data Analysis**: Analyzed social media data to extract insights about video content's impact.
+- **Statistical Visualization**: Created visualizations like scree plots to support data analysis and model interpretation.
+- **Machine Learning Models**: Built and evaluated logistic regression models to predict the likelihood of video content.
+- **Cluster Interpretation**: Developed and named clusters to identify social media trends and segmentation.
+
+### Explore My Project
+Check out the analysis, insights, and models in the linked file under [Unsupervised Analysis Project](./8.%20Unsupervised%20Analysis%20Project)
+ in my portfolio.
 
 
 
