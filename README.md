@@ -87,3 +87,30 @@ To view the code for [Client Proposal SQL Code](./3.%20Client%20Proposal%20Code)
 , check the linked file or go to the file "3. Client Proposal Code" in my portfolio.
 
 
+### 4. Data Analyst at the World Bank
+#### Course: Visualizing and Analyzing data with R 
+In this course, I use R programming and PowerBI to create visualizations and analyze data for real-world applications.
+
+### Assignment Goal: Create Scatterplots and Provide Insights
+I played a data analyst role at the World Bank in this assignment. The goal was to produce scatterplots depicting Life Expectancy (Y-axis) and Fertility Rate (X-axis) statistics by country for the years 1960 and 2020. The scatterplots needed to be categorized by the countries' regions.
+
+### Data and Tasks
+- **Data Sources**: Data for both years was provided in a CSV file, and some additional data was provided in R vectors.
+- **Scatterplots**: You created scatterplots for each year (1960 and 2020) using Life Expectancy and Fertility Rate as variables.
+- **Categorization**: The scatterplots were categorized by the regions of the countries.
+
+
+### Skills and Tools Learned
+Through this project, I developed the following skills:
+
+- **R Programming**: Learned to use R for data analysis and visualization.
+- **Data Visualization**: Created scatterplots to represent complex data.
+- **Data Analysis**: Analyzed and compared data from 1960 and 2020 to draw insights.
+- **Statistical Insights**: Provided analysis as a data analyst to describe trends and patterns.
+
+### Explore My Project
+Check out the [Data Analyst for World Bank R Script](./4.%20R%20Script%20:%20Data%20Analyst%20for%20World%20Bank)
+, visualizations, and insights in the linked file under "4. Data Analyst at World Bank" in my portfolio.
+
+
+
