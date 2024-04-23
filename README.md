@@ -155,25 +155,25 @@ You can check out the R script, visualizations, and our team’s player replacem
 in my portfolio.
 
 ### 7. Modeling Case Study
-### Course: Machine Learning and AI
+#### Course: Machine Learning and AI
 In this course, I used machine learning techniques to analyze and predict outcomes, focusing on real-world public health applications.
 
-### Assignment Goal: Analyzing and Predicting Birthweight
+#### Assignment Goal: Analyzing and Predicting Birthweight
 This assignment focused on analyzing and predicting birthweight, a key indicator of a baby's health during pregnancy. The task involved examining factors that affect birthweight and using machine learning models to identify and predict potential complications.
 
-### Data and Tasks
+#### Data and Tasks
 - **Data Sources**: The primary dataset, `birthweight.xlsx`, provided detailed information for analysis. The data dictionary, `birthweight_data_dictionary.rtf`, offered guidance on interpreting the dataset.
 - **Correlation Analysis**: The assignment required identifying strong positive and negative linear (Pearson) correlations with birthweight.
 - **Threshold Identification**: The goal was to investigate official thresholds that signify when birthweight becomes more dangerous, relying on credible sources.
 - **Machine Learning Model**: Various machine learning techniques, such as Logistic Regression, Ridge Classification, and Random Forest, were used to predict birthweight and assess model accuracy through a confusion matrix.
 
-### Skills and Tools Learned
+#### Skills and Tools Learned
 - **Machine Learning**: Used machine learning techniques like Logistic Regression, Ridge Classification, and Random Forest to predict birthweight.
 - **Statistical Analysis**: Analyzed correlations and transformed data to improve prediction accuracy.
 - **Public Health Insight**: Provided insights on the factors affecting birthweight and their implications for public health.
 - **Data Visualization**: Utilized various visualization techniques to present findings and explain model errors.
 
-### Explore My Project
+#### Explore My Project
 Check out the document, analysis, and insights in the linked file under [Modeling Case Study](./7.%20Modeling%20Case%20Study) in my portfolio.
 
 
