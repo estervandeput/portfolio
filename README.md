@@ -18,16 +18,41 @@ The "Wedding Industry in the Bay Area" project explores the competitive wedding 
 - **Python Analysis**: Applied Python to generate descriptive statistics, frequency tables, correlations, and various data visualizations, such as scatterplots and boxplots. 
 - **Business Insights**: Determined that price does not show a clear correlation with customer satisfaction, indicating that other factors might play a more significant role. 
 
-NOTE: To view the cde correctly with its visualizations in file 1.3., download the raw file as an HTML document. This ensures the visual content displays as intended.
+#### Skills and Tools Learned
+Through this project, I developed and honed the following skills and tools:
 
-#### Requirements for this Project
-- **SQL**: (check file 1.1 in repository)
-  - Developed queries to explore and prepare data for analysis.
-  - Included ample comments to explain the logic.
-  - Followed best practices to create a final dataset.
-  
-- **Python**: (Check file 1.2. & 1.3. in repository) 
-  - Created descriptive statistics, frequency tables, correlations, and multiple data visualizations.
-  - Ensured that only relevant data was presented, avoiding data dumping.
+- **SQL Proficiency**: Ability to write complex SQL queries to create datasets.
+- **Python Programming**: Application of Python to conduct statistical analysis and create visualizations.
+- **Analytical Thinking**: Using data to derive business insights and understand underlying patterns.
 
+#### Explore My Project
 This project exemplifies my ability to work with complex data, create a database, apply advanced analytical techniques, and derive meaningful insights for stakeholders.
+
+NOTE: To view my Wedding analysis (SQL code, Jupyter Notebook, and HTML file), check the linked files (1.1., 1.2., 1.3.) in my portfolio. Also, to view file 1.3. correctly, make sure to download the raw file as an HTML document. 
+
+### 2. Text Adventure Game: THE HUNGER GAMES
+#### Course: Python for Data Analysts
+#### Course Goal: Drive meaning from large datasets using Python and apply statistical methods. Learn programming design principles.
+
+#### Project Requirements
+The assignment's goal was to create a text-based adventure game using Python's fundamental concepts and programming design principles. The key requirements included:
+
+- A game script that could be completed in under 3 minutes.
+- At least 3 stages with no more than 5 stages in total.
+- A minimum of 5 defined variables, 1 list, 1 for loop, and 1 while loop.
+- 3 nested conditional statements, each with an else clause.
+- A win() function and a fail() function to indicate game outcomes.
+- A brief introduction to the game's story and objective.
+
+#### Skills and Tools Learned
+Through this project, I developed and honed the following skills and tools:
+
+- **Python Programming**: Deepened my understanding of Python essentials, including strings, functions, conditionals, and loops.
+- **Error Handling**: Learned to use try/except blocks for robust input handling.
+- **Game Design**: Developed a structured text-based adventure game, focusing on script flow and user interaction.
+- **Problem-solving**: Applied logical reasoning to design game stages and scenarios.
+
+#### Explore My Project
+To see my text adventure game based on "The Hunger Games," check the linked Jupyter notebook in my portfolio. This game incorporates the skills and concepts mentioned above.
+
+
