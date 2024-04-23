@@ -81,13 +81,9 @@ Through this project, I developed and honed the following skills and tools:
 - **Data Visualization**: Utilized SQL queries to generate visualizations that aid in client presentations, indicating my skill in presenting data in a comprehensible format.
 - **Problem-Solving**: Addressed client requirements through SQL tasks and SQL-derived insights, proving my capability to solve business problems with data-driven approaches.
 
-#### Deliverables:
-- A multi-line comment at the beginning of the script explaining the rationale for:
-  - Group vendors into wedding size and budget-level categories, with external sources and justifications (5-10 sentences).
-  - Assumptions and special cases for wedding options, especially when no vendors are available for certain combinations (5-10 sentences).
-- Submission of SQL queries used to perform the tasks, in `.txt` format.
 
 #### Explore My Project
-To view the code for client proposal preparation, check the linked file under "3. Client Proposal Code" in my portfolio.
+To view the code for [Client Proposal SQL Code](./3.%20Client%20Proposal%20Code)
+, check the linked file or go to the file "3. Client Proposal Code" in my portfolio.
 
 
