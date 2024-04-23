@@ -2,10 +2,10 @@
 
 Welcome to my GitHub portfolio, a curated collection of projects from my Master's degree. This portfolio highlights my journey through complex data analysis, machine learning, and programming challenges. Each project demonstrates my ability to apply advanced statistical techniques to address real-world problems, reflecting my skills as a marketing/data analyst.
 
-##Portfolio Overview
+## Portfolio Overview
 Explore a range of projects that showcase data-driven insights and intricate machine-learning models. My portfolio demonstrates how I use analytics to solve business questions and drive informed decision-making.
 
-##Featured Project
+## Featured Project
 
 ### 1. Wedding Industry in the Bay Area
 #### Course: Business Analysis with Structured Data
@@ -54,3 +54,36 @@ Through this project, I developed and honed the following skills and tools:
 
 #### Explore My Project
 To see my text adventure game based on "The Hunger Games," check the linked Jupyter notebook in my portfolio. This game incorporates the skills and concepts mentioned above.
+
+### 3. Preparing Client Proposals
+#### Course: Data Analytics for Business Solutions
+This course taught me how to analyze business scenarios to generate effective client proposals through SQL and Python. It also furthered my knowledge in structured data analysis to create insights for business planning.
+
+#### Assignment Goal: Client Proposal Development
+This assignment aimed to help a client prepare wedding options based on their estimated guest count and budget level. To accomplish this, the following steps were taken:
+
+- **Data Preparation in SQL**:
+  - Created a temporary table of all vendors fitting the wedding theme, naming it `relevant_vendors`.
+  - We have added new categorical attributes for `wedding_size` and `budget_level`, defining ranges based on the provided criteria.
+  - Created a second temporary table, `vendor_options`, with one wedding option for each budget level and wedding size combination.
+  - Included an estimated total cost in USD and the theme of the wedding for each wedding option.
+
+#### Skills and Tools Learned
+Through this project, I developed and honed the following skills and tools:
+
+- **SQL Proficiency**: Learned to write complex SQL queries to create datasets and manipulate data, demonstrating data extraction and preparation skills.
+- **Data Categorization**: Developed categorical attributes for vendors based on logical ranges and business criteria, showcasing my ability to classify and structure data.
+- **Business Analysis**: Gained insights into business requirements to create effective proposals, highlighting my ability to understand client needs and offer tailored solutions.
+- **Data Visualization**: Utilized SQL queries to generate visualizations that aid in client presentations, indicating my skill in presenting data in a comprehensible format.
+- **Problem-Solving**: Addressed client requirements through SQL tasks and SQL-derived insights, proving my capability to solve business problems with data-driven approaches.
+
+#### Deliverables:
+- A multi-line comment at the beginning of the script explaining the rationale for:
+  - Group vendors into wedding size and budget-level categories, with external sources and justifications (5-10 sentences).
+  - Assumptions and special cases for wedding options, especially when no vendors are available for certain combinations (5-10 sentences).
+- Submission of SQL queries used to perform the tasks, in `.txt` format.
+
+#### Explore My Project
+To view the code for client proposal preparation, check the linked file under "3. Client Proposal Code" in my portfolio.
+
+
