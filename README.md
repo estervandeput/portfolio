@@ -73,8 +73,6 @@ This assignment aimed to help clients prepare wedding options based on their est
   - Included an estimated total cost in USD and the theme of the wedding for each wedding option.
 
 #### Skills and Tools Learned
-Through this project, I developed and honed the following skills and tools:
-
 - **SQL Proficiency**: Learned to write complex SQL queries to create datasets and manipulate data, demonstrating data extraction and preparation skills.
 - **Data Categorization**: Developed categorical attributes for vendors based on logical ranges and business criteria, showcasing my ability to classify and structure data.
 - **Business Analysis**: Gained insights into business requirements to create effective proposals, highlighting my ability to understand client needs and offer tailored solutions.
@@ -91,26 +89,49 @@ To view the code for [Client Proposal SQL Code](./3.%20Client%20Proposal%20Code)
 #### Course: Visualizing and Analyzing data with R 
 In this course, I use R programming and PowerBI to create visualizations and analyze data for real-world applications.
 
-### Assignment Goal: Create Scatterplots and Provide Insights
+#### Assignment Goal: Create Scatterplots and Provide Insights
 I played a data analyst role at the World Bank in this assignment. The goal was to produce scatterplots depicting Life Expectancy (Y-axis) and Fertility Rate (X-axis) statistics by country for the years 1960 and 2020. The scatterplots needed to be categorized by the countries' regions.
 
-### Data and Tasks
+#### Data and Tasks
 - **Data Sources**: Data for both years was provided in a CSV file, and some additional data was provided in R vectors.
 - **Scatterplots**: You created scatterplots for each year (1960 and 2020) using Life Expectancy and Fertility Rate as variables.
 - **Categorization**: The scatterplots were categorized by the regions of the countries.
 
 
-### Skills and Tools Learned
-Through this project, I developed the following skills:
-
+#### Skills and Tools Learned
 - **R Programming**: Learned to use R for data analysis and visualization.
 - **Data Visualization**: Created scatterplots to represent complex data.
 - **Data Analysis**: Analyzed and compared data from 1960 and 2020 to draw insights.
 - **Statistical Insights**: Provided analysis as a data analyst to describe trends and patterns.
 
-### Explore My Project
-Check out the [Data Analyst for World Bank R Script](./4.%20R%20Script%20:%20Data%20Analyst%20for%20World%20Bank)
+#### Explore My Project
+Check out the [
 , visualizations, and insights in the linked file under "4. Data Analyst at World Bank" in my portfolio.
+
+### 5. Bank Churn Prediction
+#### Course: Machine Learning and Data Science
+This course taught me how to use  machine learning techniques to predict customer churn and analyze data for business insights.
+
+#### Assignment Goal: Predicting Customer Churn
+In this assignment, I worked with Kaggle's Bank Churn dataset to predict whether a customer would continue with the bank or close their account. The task involved handling missing values, training a model, and evaluating its performance.
+
+#### Data and Tasks
+- **Data Sources**: Two datasets were provided for this assignment—one for training and testing (BankChurnDataset), and another to predict customer churn (NewCustomerDataset).
+- **Data Preparation**: Handled missing values in the datasets before dividing the data into training and testing sets.
+- **Model Training**: Trained a machine learning model to predict customer churn and evaluated its accuracy, specificity, and sensitivity.
+- **Predictions**: Used the model to predict whether customers from the NewCustomerDataset would churn.
+
+### Skills and Tools Learned
+
+- **Machine Learning**: Trained a model to predict customer churn and evaluated its accuracy, specificity, and sensitivity.
+- **Data Preprocessing**: Handled missing values and divided datasets for training and testing.
+- **Business Analysis**: Provided insights into customer behavior and churn trends.
+- **Model Evaluation**: Assessed the machine learning model's performance using various metrics.
+
+### Explore My Project
+Check out the code, model evaluation, and predictions in the linked file under [Bank Churn R Script](./5.%20R%20Script%20:%20Bank%20Churn)
+ in my portfolio.
+
 
 
 
