@@ -132,6 +132,30 @@ In this assignment, I worked with Kaggle's Bank Churn dataset to predict whether
 Check out the code, model evaluation, and predictions in the linked file under [Bank Churn R Script](./5.%20R%20Script%20:%20Bank%20Churn)
  in my portfolio.
 
+### 6. Moneyball Capstone Team Project
+#### Course: Visualizing and Analyzing data with R 
+
+
+#### Assignment Goal: Finding Player Replacements Using Data Analysis
+For this team assignment, I collaborated with my peers to analyze baseball statistics and identify suitable replacements for key players that the Oakland Athletics lost during the 2001–02 offseason. Our goal was to follow the Moneyball approach, focusing on sabermetrics and data-driven decision-making to create a competitive team with a limited budget.
+
+#### Data and Tasks
+- **Data Sources**: We used multiple datasets, including Batting.csv, Salaries.csv, and readme2013.txt.
+- **Statistics**: We calculated key statistics used in the Moneyball approach, including Batting Average, On-Base Percentage, and Slugging Percentage.
+- **Player Replacement Strategy**: We analyzed the data to find replacements for three pivotal players: 2000 AL MVP Jason Giambi, outfielder Johnny Damon, and closer Jason Isringhausen.
+
+### Skills and Tools Learned
+- **R Programming**: I used R to perform data analysis and create visualizations.
+- **Statistical Analysis**: I calculated baseball statistics to evaluate player performance and potential replacements.
+- **Team Collaboration**: This project required effective teamwork to achieve our objectives.
+- **Sports Analytics**: We applied data-driven techniques to sports management, focusing on sabermetrics and efficiency.
+
+### Explore My Project
+You can check out the R script, visualizations, and our team’s player replacement strategy in the file linked under [Moneyball Capstone Project](./6.%20Moneyball%20Capstone%20Project)
+in my portfolio.
+
+
+
 
 
 
