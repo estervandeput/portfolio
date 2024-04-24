@@ -2,7 +2,7 @@
 
 Hi, I'm Ester Van de Put, and welcome to my GitHub portfolio, a curated collection of projects from my Master's degree. This portfolio highlights my journey through complex data analysis, machine learning, and programming challenges. Each project demonstrates my ability to apply advanced statistical techniques to address real-world problems, reflecting my marketing/data analyst skills.
 
-# A little Bit About Me: 
+## A Glimpse Into My Journey:
 I recently graduated with dual master's degrees in International Business and Business Analytics from Hult International Business School. Welcome to my GitHub portfolio, where I share the projects that define my academic journey and illustrate my skills in marketing and data analytics.
 
 Throughout my studies, I have embraced complex challenges in data analysis, machine learning, and programming. This portfolio showcases not just my technical capabilities, but also my ability to apply advanced statistical techniques to solve real-world business problems. From data visualization to business strategy, each project represents a critical learning experience that has shaped my approach as a marketing/data analyst.
