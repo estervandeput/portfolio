@@ -36,8 +36,7 @@ Through this project, I developed and honed the following skills and tools:
 This project exemplifies my ability to work with complex data, create a database, apply advanced analytical techniques, and derive meaningful insights for stakeholders.
 
 NOTE: To view my Wedding analysis ([SQL Code](./1.1.%20SQL%20Code:%20Creation%20of%20Wedding%20Database)
-, [Jupyter Notebook](./1.2.%20Jupyter%20Notebook%20:%20Wedding%20Industry%20in%20Bay%20Area)
-, and [HTML file](./1.3%20HTLM%20file:%20Wedding%20Industry%20in%20Bay%20Area%20Project)
+, [Jupyter Notebook](./1.2.%20Wedding%20Industry%20Python.ipynb) , and [HTML file](./1.3%20HTLM%20file:%20Wedding%20Industry%20in%20Bay%20Area%20Project)
 ), check the linked files and make sure to download the HTML file as a raw file to see the document properly.  
 
 ### 2. Text Adventure Game: THE HUNGER GAMES
