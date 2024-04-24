@@ -200,8 +200,7 @@ In this assignment, the objective was to analyze the impact of video content in 
 - **Cluster Interpretation**: Developed and named clusters to identify social media trends and segmentation.
 
 #### Explore My Project
-Check out the analysis, insights, and models in the linked file under [Unsupervised Analysis Project](./8.%20Unsupervised%20Analysis%20Project)
- in my portfolio.
+Check out the analysis, insights, and models in the linked file under [8. Unsupervised Project Thailand.ipynb](./8.%20Unsupervised%20Project%20Thailand.ipynb) in my portfolio.
 
 ### 9. Linear Modeling Case Study
 #### Course: Computational Data Analytics with Python
