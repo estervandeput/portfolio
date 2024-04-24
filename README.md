@@ -227,7 +227,7 @@ This assignment aimed to develop a machine learning model to predict the number 
 - **Business Insights**: Provided insights into the factors affecting bike rental demand and how they could be optimized.
 
 ### Explore My Project
-Check out the linear modeling case study and the machine learning models in the linked file under [Linear Modeling Case Study](./9.%20Linear%20Modeling%20Case%20Study)
+Check out the linear modeling case study and the machine learning models in the linked file under [9. Linear Modeling Case Study.ipynb](./9.%20Linear%20Modeling%20Case%20Study.ipynb)
 in my portfolio.
 
 
