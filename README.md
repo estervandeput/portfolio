@@ -179,29 +179,56 @@ This assignment focused on analyzing and predicting birthweight, a key indicator
 Check out the document, analysis, and insights in the linked file under [Modeling Case Study](./7.%20Modeling%20Case%20Study) in my portfolio.
 
 ### 8. Unsupervised Analysis Project
-### Course: Machine Learning and AI
+#### Course: Machine Learning and AI
 
-### Assignment Goal: Analyzing the Impact of Video Content
+#### Assignment Goal: Analyzing the Impact of Video Content
 In this assignment, the objective was to analyze the impact of video content in social media, specifically focusing on Facebook Live sellers in Thailand. The analysis included various unsupervised learning tasks like principal component analysis (PCA), k-means clustering, and logistic regression models to understand social media engagement patterns.
 
-### Data and Tasks
+#### Data and Tasks
 - **Data Sources**: The assignment used the dataset from the research "Usage and Engagement Patterns for Facebook Live Sellers in Thailand."
 - **Reaction Analysis**: Compared videos with other forms of content to determine total engagement and specific reactions (likes, loves, etc.).
 - **Principal Component Analysis (PCA)**: Developed principal components from social media metrics and created a scree plot to determine the number of principal components to retain.
 - **K-Means Clustering**: Developed segmentation with k-means clustering using retained principal components and additional features.
 - **Logistic Regression Models**: Created three logistic regression models to determine the best model for predicting video content.
 
-### Skills and Tools Learned: 
+#### Skills and Tools Learned: 
 - **Unsupervised Learning**: Applied unsupervised learning techniques like PCA and k-means clustering.
 - **Data Analysis**: Analyzed social media data to extract insights about video content's impact.
 - **Statistical Visualization**: Created visualizations like scree plots to support data analysis and model interpretation.
 - **Machine Learning Models**: Built and evaluated logistic regression models to predict the likelihood of video content.
 - **Cluster Interpretation**: Developed and named clusters to identify social media trends and segmentation.
 
-### Explore My Project
+#### Explore My Project
 Check out the analysis, insights, and models in the linked file under [Unsupervised Analysis Project](./8.%20Unsupervised%20Analysis%20Project)
  in my portfolio.
 
+### 9. Linear Modeling Case Study
+#### Course: Computational Data Analytics with Python
+In this course, I used linear modeling and regression techniques to analyze data and make predictions for business applications.
+
+#### Assignment Goal: Predicting Bike Rentals
+This assignment aimed to develop a machine learning model to predict the number of bike rentals on a given day and provide insights into the factors contributing to bike rental demand. This involved using regression modeling and linear modeling techniques to build and evaluate predictive models.
+
+#### Data and Tasks
+- **Data Sources**: The primary dataset, `chicago_training_data.xlsx`, contains information about bike rentals in Chicago. The assignment provided a link to the Kaggle data source.
+- **Model Types**: The following models were used to predict bike rentals:
+  - Ordinary Least Squares (OLS) Linear Regression
+  - Lasso Regression
+  - Ridge Regression
+  - Elastic Net Regression
+  - K-Nearest Neighbors
+  - Decision Tree Regressor
+- **Client Information**: The client, Cook County Planning and Development Department, is responsible for the Chicago metropolitan area.
+
+#### Skills and Tools Learned: 
+- **Regression Analysis**: Utilized various regression techniques to predict the number of bike rentals.
+- **Machine Learning**: Applied machine learning methods to analyze factors contributing to bike rental demand.
+- **Python Programming**: Used Python libraries like Scikit-Learn to build and evaluate models.
+- **Business Insights**: Provided insights into the factors affecting bike rental demand and how they could be optimized.
+
+### Explore My Project
+Check out the linear modeling case study and the machine learning models in the linked file under [Linear Modeling Case Study](./9.%20Linear%20Modeling%20Case%20Study)
+in my portfolio.
 
 
 
