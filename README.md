@@ -176,8 +176,8 @@ This assignment focused on analyzing and predicting birthweight, a key indicator
 - **Data Visualization**: Utilized various visualization techniques to present findings and explain model errors.
 
 #### Explore My Project
-Check out the document, analysis, and insights in the linked file under [7. Birthweight Case Study.ipynb](./new%20:%207.%20Birthweight%20Case%20Study.ipynb)
- in my portfolio.
+Check out the document, analysis, and insights in the linked file under [7. Birthweight Case Study.ipynb](./7.%20Birthweight%20Case%20Study.ipynb)
+in my portfolio.
 
 ### 8. Unsupervised Analysis Project
 #### Course: Machine Learning and AI
